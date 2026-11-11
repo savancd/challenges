@@ -7,7 +7,7 @@ A small daily practice repo for Python, Bash, and other programming topics.
 
 Challenges completed: 11 / $\infty$   
 Last completed: guest_list_manager.py   
-Current challenge: 008   
+Current challenge: 011   
 
 
 ## Progress
