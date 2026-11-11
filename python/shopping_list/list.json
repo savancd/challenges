@@ -1,0 +1,28 @@
+{
+    "ShoppingList": [
+        {
+            "item": "Milk",
+            "quantity": 2,
+            "unit": "liters",
+            "category": "Dairy"
+        },
+        {
+            "item": "Eggs",
+            "quantity": 12,
+            "unit": "pieces",
+            "category": "Dairy"
+        },
+        {
+            "item": "Bread",
+            "quantity": 1,
+            "unit": "loaf",
+            "category": "Bakery"
+        },
+        {
+            "item": "Chicken Breast",
+            "quantity": 1,
+            "unit": "kg",
+            "category": "Meat"
+        }
+    ]
+}
