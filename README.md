@@ -1,4 +1,4 @@
-<h1 align="center">Daily Coding Challenges</h1>
+<h1 align="center">Challenges</h1>
 
 <p align="center">  <img src="https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white" alt="Python"> </p>
 
